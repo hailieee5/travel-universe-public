@@ -1,0 +1,177 @@
+{
+  "id": "kyoto",
+  "city": "Kyoto",
+  "name": "Kyoto",
+  "displayName": "Kyoto",
+  "slug": "kyoto",
+  "country": "Japan",
+  "mapAsset": "/maps/kyoto-map.png",
+  "mapAspectRatio": 1.333333,
+  "stickerSheetAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+  "mapContainsLandmarkArt": true,
+  "places": [
+    {
+      "id": "kyoto-kawai-jinja",
+      "city": "Kyoto",
+      "name": "河合神社",
+      "displayName": "Kawai Shrine",
+      "slug": "kawai-jinja",
+      "latitude": 35.0347,
+      "longitude": 135.772,
+      "mapX": 78,
+      "mapY": 32,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.05,
+      "photoFolder": "河合神社",
+      "photoCount": 3,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IDG_20260416_090102_114.jpg", "IMG_9767.JPG", "IMG_9772.JPG"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-kamigamo-jinja",
+      "city": "Kyoto",
+      "name": "上賀茂神社",
+      "displayName": "Kamigamo Shrine",
+      "slug": "kamigamo-jinja",
+      "latitude": 35.0601,
+      "longitude": 135.7515,
+      "mapX": 75,
+      "mapY": 13,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.1,
+      "photoFolder": "贺茂川神社",
+      "photoCount": 7,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["94059905-9420-40A2-A198-0030B16CB978_1_105_c.jpeg", "IDG_20260416_085812_320.jpg", "IMG_0058.JPG", "IMG_9714.JPG", "IMG_9956.jpeg", "IMG_9962.jpeg", "IMG_9988.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-kinkakuji",
+      "city": "Kyoto",
+      "name": "金阁寺",
+      "displayName": "Kinkaku-ji",
+      "slug": "kinkakuji",
+      "latitude": 35.0394,
+      "longitude": 135.7293,
+      "mapX": 36,
+      "mapY": 22,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.25,
+      "photoFolder": "金阁寺",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IMG_9850.JPG", "IMG_9857.JPG", "IMG_9922.jpeg", "IMG_9923.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-kyoto-tower",
+      "city": "Kyoto",
+      "name": "京都塔",
+      "displayName": "Kyoto Tower",
+      "slug": "kyoto-tower",
+      "latitude": 34.9875,
+      "longitude": 135.7594,
+      "mapX": 51.8,
+      "mapY": 57.7,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 0.8,
+      "photoFolder": "京都塔",
+      "photoCount": 1,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["京都塔01.jpg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-kyoto-station",
+      "city": "Kyoto",
+      "name": "京都站",
+      "displayName": "Kyoto Station",
+      "slug": "kyoto-station",
+      "latitude": 34.9858,
+      "longitude": 135.7586,
+      "mapX": 51.8,
+      "mapY": 69.5,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.45,
+      "photoFolder": "京都站",
+      "photoCount": 3,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IMG_9592.JPG", "IMG_9593.JPG", "IMG_9598.JPG"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-other",
+      "city": "Kyoto",
+      "name": "其他",
+      "displayName": "Other memories",
+      "slug": "other",
+      "latitude": null,
+      "longitude": null,
+      "mapX": null,
+      "mapY": null,
+      "stickerAsset": null,
+      "photoFolder": "其他",
+      "photoCount": 1,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IMG_9860.JPG"]
+      }],
+      "mapVisible": false,
+      "locationStatus": "needs-confirmation",
+      "locationNote": "No geographic identity is inferred from the folder name."
+    },
+    {
+      "id": "kyoto-yamazaki-distillery",
+      "city": "Kyoto",
+      "name": "山崎蒸馏所",
+      "displayName": "Yamazaki Distillery",
+      "slug": "yamazaki-distillery",
+      "latitude": 34.8928,
+      "longitude": 135.6741,
+      "mapX": 16,
+      "mapY": 80,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.35,
+      "photoFolder": "山崎蒸馏所",
+      "photoCount": 5,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IMG_9606.JPG", "IMG_9613.JPG", "IMG_9614.JPG", "IMG_9618.JPG", "IMG_9622.JPG"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "kyoto-kamo-river",
+      "city": "Kyoto",
+      "name": "鸭川",
+      "displayName": "Kamo River",
+      "slug": "kamo-river",
+      "latitude": null,
+      "longitude": null,
+      "mapX": 64.8,
+      "mapY": 19.7,
+      "stickerAsset": "/stickers/kyoto-landmark-sticker-sheet.png",
+      "stickerScale": 1.2,
+      "photoFolder": "鸭川",
+      "photoCount": 3,
+      "photoDateRanges": [{
+        "label": "2026.04.15–2026.04.17",
+        "fileNames": ["IDG_20260416_101714_743 2.jpg", "IMG_9708.JPG", "IMG_9994.jpeg"]
+      }],
+      "mapVisible": true,
+      "locationStatus": "visual-position",
+      "locationNote": "The illustrated-map position is chosen manually on the bridge beside Kamigamo Shrine for this non-point river place."
+    }
+  ]
+}

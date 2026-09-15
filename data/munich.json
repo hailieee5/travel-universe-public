@@ -1,0 +1,276 @@
+{
+  "id": "munich",
+  "city": "Munich",
+  "name": "Munich & Bavaria Day Trips",
+  "displayName": "Munich & Bavaria Day Trips",
+  "slug": "munich",
+  "country": "Germany / Austria",
+  "mapAsset": "/maps/munich-map.png",
+  "mapAspectRatio": 1.333333,
+  "stickerSheetAsset": "/stickers/munich-landmark-sticker-sheet.png",
+  "mapContainsLandmarkArt": true,
+  "places": [
+    {
+      "id": "munich-reutte",
+      "city": "Munich",
+      "name": "奥地利-罗伊特",
+      "displayName": "Reutte, Austria",
+      "slug": "reutte-austria",
+      "latitude": 47.4884,
+      "longitude": 10.7183,
+      "mapX": 77,
+      "mapY": 84,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.5,
+      "photoFolder": "奥地利-罗伊特",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-tum-munich",
+      "city": "Munich",
+      "name": "慕尼黑工业大学（Munich）",
+      "displayName": "TUM Munich Campus",
+      "slug": "tum-munich",
+      "latitude": null,
+      "longitude": null,
+      "mapX": 31,
+      "mapY": 57,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.4,
+      "photoFolder": "MUNICH/慕尼黑工业大学",
+      "photoCount": 2,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg"]
+      }],
+      "mapVisible": true,
+      "locationStatus": "needs-confirmation",
+      "locationNote": "Map position is confirmed; the exact Munich-campus coordinate remains intentionally unassigned."
+    },
+    {
+      "id": "munich-tum-freising",
+      "city": "Munich",
+      "name": "慕尼黑工业大学（Freising）",
+      "displayName": "TUM Freising Campus",
+      "slug": "tum-freising",
+      "latitude": 48.4003,
+      "longitude": 11.7265,
+      "mapX": 91,
+      "mapY": 41,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.35,
+      "photoFolder": "Freising/慕尼黑工业大学（freising)",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-weihenstephan-brewery",
+      "city": "Munich",
+      "name": "weihenstephaner啤酒厂",
+      "displayName": "Weihenstephan Brewery",
+      "slug": "weihenstephan-brewery",
+      "latitude": 48.4052,
+      "longitude": 11.7281,
+      "mapX": 89,
+      "mapY": 60,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.35,
+      "photoFolder": "Freising/weihenstephaner啤酒厂",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-fussen",
+      "city": "Munich",
+      "name": "福森",
+      "displayName": "Füssen",
+      "slug": "fussen",
+      "latitude": 47.5697,
+      "longitude": 10.7006,
+      "mapX": 17,
+      "mapY": 86,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.45,
+      "photoFolder": "Füssen : Schwangau/福森",
+      "photoCount": 6,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["00.jpeg", "01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg", "05.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-neuschwanstein-castle",
+      "city": "Munich",
+      "name": "天鹅堡",
+      "displayName": "Neuschwanstein Castle",
+      "slug": "neuschwanstein-castle",
+      "latitude": 47.5576,
+      "longitude": 10.7498,
+      "mapX": 44,
+      "mapY": 85,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.45,
+      "photoFolder": "Füssen : Schwangau/天鹅堡",
+      "photoCount": 3,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-asam-church",
+      "city": "Munich",
+      "name": "阿萨姆教堂",
+      "displayName": "Asamkirche",
+      "slug": "asam-church",
+      "latitude": 48.1351,
+      "longitude": 11.5697,
+      "mapX": 31,
+      "mapY": 29,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.2,
+      "photoFolder": "MUNICH/阿萨姆教堂",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-bavarian-national-museum",
+      "city": "Munich",
+      "name": "巴伐利亚国家博物馆",
+      "displayName": "Bavarian National Museum",
+      "slug": "bavarian-national-museum",
+      "latitude": 48.1423,
+      "longitude": 11.5905,
+      "mapX": 48,
+      "mapY": 14,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.4,
+      "photoFolder": "MUNICH/巴伐利亚国家博物馆",
+      "photoCount": 1,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-hackerbrucke-station",
+      "city": "Munich",
+      "name": "哈克桥车站",
+      "displayName": "Hackerbrücke",
+      "slug": "hackerbrucke-station",
+      "latitude": 48.1403,
+      "longitude": 11.556,
+      "mapX": 43,
+      "mapY": 26,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.3,
+      "photoFolder": "MUNICH/哈克桥车站",
+      "photoCount": 6,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg", "05.jpeg", "06.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-st-peters-church",
+      "city": "Munich",
+      "name": "老彼得教堂",
+      "displayName": "St. Peter’s Church",
+      "slug": "st-peters-church",
+      "latitude": 48.1365,
+      "longitude": 11.5753,
+      "mapX": 58,
+      "mapY": 37,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.15,
+      "photoFolder": "MUNICH/老彼得教堂",
+      "photoCount": 5,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg", "05.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-alte-pinakothek",
+      "city": "Munich",
+      "name": "老绘画博物馆",
+      "displayName": "Alte Pinakothek",
+      "slug": "alte-pinakothek",
+      "latitude": 48.1482,
+      "longitude": 11.5708,
+      "mapX": 81,
+      "mapY": 25,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.5,
+      "photoFolder": "MUNICH/老绘画博物馆",
+      "photoCount": 5,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg", "05.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-marienplatz",
+      "city": "Munich",
+      "name": "玛丽亚广场",
+      "displayName": "Marienplatz",
+      "slug": "marienplatz",
+      "latitude": 48.1374,
+      "longitude": 11.5755,
+      "mapX": 44,
+      "mapY": 45,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.55,
+      "photoFolder": "MUNICH/玛丽亚广场",
+      "photoCount": 3,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg"]
+      }],
+      "mapVisible": true
+    },
+    {
+      "id": "munich-hofgarten",
+      "city": "Munich",
+      "name": "慕尼黑王宫花园",
+      "displayName": "Hofgarten",
+      "slug": "munich-hofgarten",
+      "latitude": 48.1424,
+      "longitude": 11.581,
+      "mapX": 52,
+      "mapY": 62,
+      "stickerAsset": "/stickers/munich-landmark-sticker-sheet.png",
+      "stickerScale": 1.25,
+      "photoFolder": "MUNICH/慕尼黑王宫花园",
+      "photoCount": 4,
+      "photoDateRanges": [{
+        "label": "2025.03.21–2025.03.30",
+        "fileNames": ["01.jpeg", "02.jpeg", "03.jpeg", "04.jpeg"]
+      }],
+      "mapVisible": true
+    }
+  ]
+}
