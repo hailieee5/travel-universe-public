@@ -1,5 +1,7 @@
 # Travel Universe
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 An interactive travel-memory site built with Next.js, React, and Framer Motion.
 
 ## Run locally

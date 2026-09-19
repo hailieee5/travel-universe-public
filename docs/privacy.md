@@ -1,5 +1,7 @@
 # Public photo privacy process
 
+[English](privacy.md) | [简体中文](privacy.zh-CN.md)
+
 This public edition stores its display photos in `public/photos`, so it does not read any original photo library or rely on personal machine paths.
 
 Before a photo was included:
